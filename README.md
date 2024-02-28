@@ -1,6 +1,6 @@
 # This repo shows the codes I wrote for basic JS practice
 
-[Assignment 1 Link](https://github.com/HR-134/JS-Practice/blob/main/class1.js/)
+[Assignment 1 Link](https://github.com/HR-134/JS-Practice/blob/main/class1.js)
 
 [Assignment 2 Link](https://github.com/HR-134/JS-Practice/blob/main/class2.js)
 
